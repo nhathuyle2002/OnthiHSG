@@ -1,0 +1,8 @@
+https://vnoi.info/wiki/algo%2Fdata-structures%2FStack.md?redirected_from=translate%2Fdata-structures%2FStack.md
+https://cp-algorithms.com/data_structures/stack_queue_modification.html
+
+https://oj.vnoi.info/problem/qbrect
+https://www.spoj.com/problems/JNEXT/
+https://www.spoj.com/problems/STPAR/
+https://codeforces.com/problemset/problem/280/B
+https://codeforces.com/problemset/problem/1132/G
