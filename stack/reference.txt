@@ -1,0 +1,2 @@
+https://vnoi.info/wiki/algo%2Fdata-structures%2FStack.md?redirected_from=translate%2Fdata-structures%2FStack.md
+https://cp-algorithms.com/data_structures/stack_queue_modification.html

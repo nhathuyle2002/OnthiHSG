@@ -1,5 +1,3 @@
-https://vnoi.info/wiki/algo/data-structures/deque-min-max.md
-
 https://oj.vnoi.info/problem/mink
 https://oj.vnoi.info/problem/kagain
 https://oj.vnoi.info/problem/kplank
