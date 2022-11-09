@@ -1,0 +1,2 @@
+https://oj.vnoi.info/problem/substr
+https://oj.vnoi.info/problem/paliny
